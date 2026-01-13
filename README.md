@@ -1,4 +1,7 @@
 ## Overview
+
+This repo is intended only for skill testin purposes.
+
 Sample Django-DRF+Docker wepapp, wired together with a docker-compose file.
 Meant to enable one to quickly spin up a local dev environment that requires the aforementioned software stack.
 
